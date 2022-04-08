@@ -1,6 +1,6 @@
 print("请输入您的ip:")
 ip = input()
-print("请输入您的ip:")
+print("请输入您的端口:")
 port = input()
 a = ip.split('.')
 str = ""
